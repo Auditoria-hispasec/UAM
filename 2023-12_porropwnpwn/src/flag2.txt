@@ -1,1 +1,0 @@
-UAM{Now_You_know_libc_rand_is_not_a_standard}
